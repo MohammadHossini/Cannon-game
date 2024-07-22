@@ -1,5 +1,5 @@
 # Cannon-game
-
+![image](https://github.com/user-attachments/assets/b430a3b6-0fcf-4f29-ab44-315242ec67b9)
 
 #### Overview
 The final exam project involves designing and implementing a 2D side-view artillery game called "Cannon," inspired by classic artillery games. The game is developed using the Kivy framework and is intended to run on any system with Python 3 and Kivy installed.
